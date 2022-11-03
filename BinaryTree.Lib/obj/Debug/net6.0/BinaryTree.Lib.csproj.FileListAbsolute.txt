@@ -1,0 +1,12 @@
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/bin/Debug/net6.0/BinaryTree.Lib.deps.json
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/bin/Debug/net6.0/BinaryTree.Lib.dll
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/bin/Debug/net6.0/BinaryTree.Lib.pdb
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/BinaryTree.Lib.csproj.AssemblyReference.cache
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/BinaryTree.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/BinaryTree.Lib.AssemblyInfoInputs.cache
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/BinaryTree.Lib.AssemblyInfo.cs
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/BinaryTree.Lib.csproj.CoreCompileInputs.cache
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/BinaryTree.Lib.dll
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/refint/BinaryTree.Lib.dll
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/BinaryTree.Lib.pdb
+/Users/jonasvogel/RiderProjects/BinaryTree/BinaryTree.Lib/obj/Debug/net6.0/ref/BinaryTree.Lib.dll
